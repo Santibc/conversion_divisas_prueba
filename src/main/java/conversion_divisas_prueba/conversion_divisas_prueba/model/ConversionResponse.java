@@ -1,3 +1,11 @@
+/*==============================================================================================
+Nombre del archivo: ConversionResponse.java
+Descripción: Modelo que representa el resultado de la conversión.
+--------------------------------------------------------------------------------------------
+Autor: Santiago Bellaizan Chaparro
+Fecha: 2025-01-16
+===============================================================================================*/
+
 package conversion_divisas_prueba.conversion_divisas_prueba.model;
 
 public class ConversionResponse {

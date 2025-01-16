@@ -1,3 +1,11 @@
+/*==============================================================================================
+Nombre del archivo: ConversionDivisasPruebaApplication.java
+Descripción: Funciones para controlar el inicio del aplicativo.
+--------------------------------------------------------------------------------------------
+Autor: Santiago Bellaizan Chaparro
+Fecha: 2025-01-16
+===============================================================================================*/
+
 package conversion_divisas_prueba.conversion_divisas_prueba;
 
 import org.springframework.boot.SpringApplication;

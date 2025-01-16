@@ -1,4 +1,11 @@
-// config/SecurityConfig.java
+/*==============================================================================================
+Nombre del archivo: SecurityConfig.java
+Descripción: Funciones para controlar la seguridad por medio de Spring Security.
+--------------------------------------------------------------------------------------------
+Autor: Santiago Bellaizan Chaparro
+Fecha: 2025-01-16
+===============================================================================================*/
+
 package conversion_divisas_prueba.conversion_divisas_prueba.config;
 
 import conversion_divisas_prueba.conversion_divisas_prueba.security.ApiKeyFilter;

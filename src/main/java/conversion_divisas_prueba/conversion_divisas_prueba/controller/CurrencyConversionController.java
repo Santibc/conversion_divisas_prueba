@@ -1,3 +1,11 @@
+/*==============================================================================================
+Nombre del archivo: CurrencyConversionController.java
+Descripción: Funciones para manejar las solicitudes relacionadas con la conversión de divisas.
+--------------------------------------------------------------------------------------------
+Autor: Santiago Bellaizan Chaparro
+Fecha: 2025-01-16
+===============================================================================================*/
+
 package conversion_divisas_prueba.conversion_divisas_prueba.controller;
 
 import conversion_divisas_prueba.conversion_divisas_prueba.model.ConversionRequest;

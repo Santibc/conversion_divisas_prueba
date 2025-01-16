@@ -1,16 +1,24 @@
+/*==============================================================================================
+Nombre del archivo: ConversionRequest.java
+Descripción: Modelo que representa la solicitud de la conversión.
+--------------------------------------------------------------------------------------------
+Autor: Santiago Bellaizan Chaparro
+Fecha: 2025-01-16
+===============================================================================================*/
+
 package conversion_divisas_prueba.conversion_divisas_prueba.model;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
 
 public class ConversionRequest {
-    @Min(value = 0, message = "Amount must be greater than or equal to 0")
+    @Min(value = 0, message = "El monto debe ser mayor o igual a 0")
     private double amount;
 
-    @NotBlank(message = "Source currency code is required")
+    @NotBlank(message = "Se requiere la divisa de origen")
     private String sourceCurrency;
 
-    @NotBlank(message = "Target currency code is required")
+    @NotBlank(message = "Se requiere la divisa de destino")
     private String targetCurrency;
 
     // Getters and Setters

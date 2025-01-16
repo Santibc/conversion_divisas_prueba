@@ -1,7 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+/*==============================================================================================
+Nombre del archivo: CurrencyConversionController.java
+Descripción: Se encarga de transformar la divisa.
+--------------------------------------------------------------------------------------------
+Autor: Santiago Bellaizan Chaparro
+Fecha: 2025-01-16
+===============================================================================================*/
 
 package conversion_divisas_prueba.conversion_divisas_prueba.service;
 
